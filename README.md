@@ -193,7 +193,7 @@ information see the [Code of Conduct FAQ][CodeOfConductFaq] or contact
 <!-- References -->
 
 <!-- Local -->
-[GitHubRepo]: https://github.com/Azure/azure-powershell/issues
+[GitHubRepo]: https://github.com/xaxDevD365/azure-powershell/issues
 
 [Contributing]: CONTRIBUTING.md
 
